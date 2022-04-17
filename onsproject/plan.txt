@@ -1,2 +1,6 @@
 Ik ben Alice. Je herkent mij aan de witte editor.
 Ik ga dit bestand nu pushen van GitPod naar GitHub.
+
+Ik ben ondertussen verder gegaan in dit bestand.
+Als ik nu de versie van Bob ophaal...
+Ik ga eerst pushen. Maar... Dan overschrijf ik de versie van Bob.
