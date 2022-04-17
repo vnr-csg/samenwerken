@@ -1,2 +1,8 @@
 Ik ben Alice. Je herkent mij aan de witte editor.
 Ik ga dit bestand nu pushen van GitPod naar GitHub.
+
+Ik ben Bob. Ik heb zojuist de wijzigingen van Alice opgehaald 
+uit onze gezamenlijke GitHub-repository door eerst te pullen.
+
+ALS JE BEGINT MET WERKEN GA JE ALTIJD EERST PULLEN OM DE NIEUWSTE VERSIE TE KRIJGEN
+Inmiddels heb ik iets toegevoegd. Dat ga ik nu pushen om het te bewaren in GitHub.
