@@ -2,3 +2,6 @@ Dit is de eerste wijziging.
 Dit bestand is gemaakt door Alice.
 
 Ik ben Bob. Ik kan nu ook wijzingen.
+
+Alice heeft nu iets gewijzigd in GitPod, maar nog niet gepusht. Ik wijzig nu ook.
+Dat wordt een conflict! Ik ga als eerste pushen. Dat gaat goed.
