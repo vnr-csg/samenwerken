@@ -2,3 +2,8 @@ Dit is de eerste wijziging.
 Dit bestand is gemaakt door Alice.
 
 Ik ben Bob. Ik kan nu ook wijzingen.
+Ik ben Alice. Door te pullen, heb ik nu de wijziging van Bob opgehaald.
+
+Alice wijzigt iets, maar pusht niet meteen. Bob gaat ook iets wijzigen.
+Bob heeft nu gepusht. Hierdoor is in GitHub het bestand veranderd t.o.v.
+wat hier staat. Als ik nu ook push, krijgen we een conflict.
