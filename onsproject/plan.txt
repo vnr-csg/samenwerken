@@ -4,3 +4,14 @@ Ik ga dit bestand nu pushen van GitPod naar GitHub.
 Ik ben ondertussen verder gegaan in dit bestand.
 Als ik nu de versie van Bob ophaal...
 Ik ga eerst pushen. Maar... Dan overschrijf ik de versie van Bob.
+Ik ben Bob. Ik heb zojuist de wijzigingen van Alice opgehaald 
+uit onze gezamenlijke GitHub-repository door eerst te pullen.
+
+ALS JE BEGINT MET WERKEN GA JE ALTIJD EERST PULLEN OM DE NIEUWSTE VERSIE TE KRIJGEN
+Inmiddels heb ik iets toegevoegd. Dat ga ik nu pushen om het te bewaren in GitHub.
+
+Omdat we allebei wijzigingen hadden aangebracht in hetzelfde bestand
+waarschuwde GitHub ons. Ik kreeg de keus om de wijzigingen samen te voegen
+of b.v. één van beide veranderingen als nieuwste versie te nemen.
+
+Ik zit nu nog in GitPod. Om het af te maken, moet ik nog wel pushen.
