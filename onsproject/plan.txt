@@ -1,0 +1,2 @@
+Ik ben Alice. Je herkent mij aan de witte editor.
+Ik ga dit bestand nu pushen van GitPod naar GitHub.
