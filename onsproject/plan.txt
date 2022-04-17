@@ -2,12 +2,6 @@ Dit is de eerste wijziging.
 Dit bestand is gemaakt door Alice.
 
 Ik ben Bob. Ik kan nu ook wijzingen.
-Ik ben Alice. Door te pullen, heb ik nu de wijziging van Bob opgehaald.
 
-Alice wijzigt iets, maar pusht niet meteen. Bob gaat ook iets wijzigen.
-Bob heeft nu gepusht. Hierdoor is in GitHub het bestand veranderd t.o.v.
-wat hier staat. Als ik nu ook push, krijgen we een conflict.
-
-Hij stelt vast dat er op GitHub een nieuwere versie staat, dan de versie
-die ik hier wijzig. Daarom moet ik eerst die nieuwere versie (die niet door
-Bob is gepusht ophalen met pull)
+Alice heeft nu iets gewijzigd in GitPod, maar nog niet gepusht. Ik wijzig nu ook.
+Dat wordt een conflict! Ik ga als eerste pushen. Dat gaat goed.
