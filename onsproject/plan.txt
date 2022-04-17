@@ -15,3 +15,6 @@ waarschuwde GitHub ons. Ik kreeg de keus om de wijzigingen samen te voegen
 of b.v. één van beide veranderingen als nieuwste versie te nemen.
 
 Ik zit nu nog in GitPod. Om het af te maken, moet ik nog wel pushen.
+
+Ik heb nu de wijzigingen opgehaald die Alice na het conflict had verwerkt. We hebben 
+(hadden; want ik ben nu aan het typen ;) weer dezelfde versie. Ik zal nog één keer pushen.
