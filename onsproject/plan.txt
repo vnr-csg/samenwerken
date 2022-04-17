@@ -7,3 +7,7 @@ Ik ben Alice. Door te pullen, heb ik nu de wijziging van Bob opgehaald.
 Alice wijzigt iets, maar pusht niet meteen. Bob gaat ook iets wijzigen.
 Bob heeft nu gepusht. Hierdoor is in GitHub het bestand veranderd t.o.v.
 wat hier staat. Als ik nu ook push, krijgen we een conflict.
+
+Hij stelt vast dat er op GitHub een nieuwere versie staat, dan de versie
+die ik hier wijzig. Daarom moet ik eerst die nieuwere versie (die niet door
+Bob is gepusht ophalen met pull)
