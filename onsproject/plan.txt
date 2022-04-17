@@ -1,4 +1,4 @@
 Dit is de eerste wijziging.
-Bovenstaande wijziging is gedaan door Alice.
+Dit bestand is gemaakt door Alice.
 
-Ik ben Bob. Ik kan nu ook wijzigen.
+Ik ben Bob. Ik kan nu ook wijzingen.
